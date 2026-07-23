@@ -1,4 +1,4 @@
-- Hi, I’m @NathanielWilcox, an Associate Software Engineer trying to make it with little to no mentorship
+- Hi, I’m @NathanielWilcox, an Associate Software Engineer trying to learn as much as I can in the little time I have
 
   
 -  How to reach me at my [LinkedIn](https://www.linkedin.com/in/nathanieljwilcox/)
